@@ -45,8 +45,7 @@ data structure curriculum design.
 	* Qt 5.8.0
 	* GCC 6.2.0
 	* OS : deepin 15.3 x64
-　　　　　　　　　　　　
-　　　　　　　　　　　　
+	
 ### License
 
 * GNU GENERAL PUBLIC LICENSE 3.0
