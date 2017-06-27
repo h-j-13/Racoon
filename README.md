@@ -1,5 +1,7 @@
 Racoon 
 ----------------------
+![](https://img.shields.io/github/stars/h-j-13/Racoon.svg)![](https://img.shields.io/badge/license-AGPL-blue.svg)![](https://img.shields.io/badge/QT-5-green.svg)![](https://img.shields.io/badge/C%2B%2B-c99-brightgreen.svg)        
+				
 Racoon is a simple text editor based on [Qt](https://www.qt.io/) 
 
 ### Introduce
